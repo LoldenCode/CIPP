@@ -23,7 +23,7 @@ In the CIPP Application
 7. Click on "Disconnect"
 8. Select the source "Github"
 9. Login if required
-10. Select the Organisation, Repository, and Branch you want for your CIPP-API.&#x20;
+10. Select the Organisation, Repository, and Branch you want for your CIPP-API.&#x20; Leave the "Workflow Option" as the default "Add a Workflow"
 11. Select "Basic Authentication" under authentication type. Microsoft currently cannot use Identity based authentication.
 12. Click on "Add a worklow". Do not change any other settings.
 13. Click save at the top.
